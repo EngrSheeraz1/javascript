@@ -1,2 +1,2 @@
 # javascript
-i want to learn javascript
+i want to learn javascript.
